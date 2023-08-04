@@ -1,6 +1,6 @@
 # Code for visualization experiments
 
-This repository contains the codes for visualization experiments:
+This folder contains the codes for visualization experiments:
 
 ---
 
@@ -14,5 +14,5 @@ algorithm_on_Office31: The learned projection matrix of compared algorithms. The
 
 ## Code files (matlab implementation)
 
-runVisualization.m: The demo that visualization the results of AGE-CS and AGLSP on task transferring from "amazon" to "dslr" on Office31 (The data for running this code can be downloaded from [here](), and it needs to be extracted to the root directory).
+runVisualization.m: The demo that visualization the results of AGE-CS and AGLSP on task transferring from "amazon" to "dslr" on Office31 (The data for running this code can be downloaded from [here](https://drive.google.com/file/d/1FRW_7wf87H83izA6GiWRWSxp_7D719gd/view?usp=sharing), and it needs to be extracted to the root directory).
 
